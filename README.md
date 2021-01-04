@@ -1,3 +1,7 @@
+
+运行项目    cd到/obj2gltf/bin 
+ node  obj2gltf.js -i ../scene.obj -o ../scene.gltf
+
 # OBJ2GLTF
 
 Convert OBJ assets to [glTF](https://www.khronos.org/gltf) 2.0.
