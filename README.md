@@ -1,5 +1,5 @@
 
-运行项目    cd到/obj2gltf/bin 
+运行项目    cd到/obj2gltf/bin 执行
  node  obj2gltf.js -i ../scene.obj -o ../scene.gltf
 
 # OBJ2GLTF
